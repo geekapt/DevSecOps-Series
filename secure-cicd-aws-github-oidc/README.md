@@ -74,7 +74,7 @@ name: Secure CI/CD Pipeline
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 permissions:
   id-token: write
